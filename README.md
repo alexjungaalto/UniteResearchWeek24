@@ -6,5 +6,6 @@ AJ, "Machine Learning: The Basics," Springer, 2022. [preprint](https://mlbook.cs
 
 # Lectures and Tutorials 
 
-* [Lecture "Three Components of ML"](https://youtu.be/WSrTDOjK7gk?si=x_59kUh0EWebbeSK) 
+* [Lecture "Three Components of ML"](https://youtu.be/WSrTDOjK7gk?si=x_59kUh0EWebbeSK)
+* [Tutorial "What is Trustworthy AI"](https://youtu.be/V7kWAZ-dV0w?si=gYFhFzg71vbFqPhJ)
 
