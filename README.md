@@ -1,6 +1,10 @@
 # Material for the Unite! Research Work in October 2024. 
 
-Supporting material for the plenary "Towards a Theory of Trustworthy AI" and the lecture "Three Components and a Design Principle for ML" by [Assoc. Prof. Alexander Jung (Aalto University)](https://alexjungaalto.github.io/). 
+Supporting material for the plenary "Towards a Theory of Trustworthy AI" and the lecture "Three Components and One Design Principle for ML" by [Assoc. Prof. Alexander Jung (Aalto University)](https://alexjungaalto.github.io/). 
+
+# Slides 
+
+TBA
 
 # Reading
 
