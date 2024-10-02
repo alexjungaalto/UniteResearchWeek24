@@ -6,7 +6,7 @@ Supporting material for the plenary "Towards a Theory of Trustworthy AI" and the
 
 * AJ, "Machine Learning: The Basics," Springer, 2022. [preprint](https://mlbook.cs.aalto.fi) 
 * European Comission, "Ethics guidelines for trustworthy AI," 2019, [weblink](https://digital-strategy.ec.europa.eu/en/library/ethics-guidelines-trustworthy-ai)
-* High-Level Expert Group on Artificial Intelligence. (2020). The Assessment List for Trustworthy Artificial Intelligence (ALTAI) for Self Assessment. European Commission. https://futurium.ec.europa.eu/en/european-ai-alliance/document/assessment-list-trustworthy-artificial-intelligence-altai-self-assessment
+* High-Level Expert Group on Artificial Intelligence. (2020). The Assessment List for Trustworthy Artificial Intelligence (ALTAI) for Self Assessment. European Commission. [weblink](https://digital-strategy.ec.europa.eu/en/library/assessment-list-trustworthy-artificial-intelligence-altai-self-assessment)
 
 # Watching
 
