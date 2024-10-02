@@ -1,7 +1,8 @@
-# UniteResearchWeek24
-Teaching Material for the Unite! Research Work in October 2024. 
+# Material for the Unite! Research Work in October 2024. 
+## Associate Prof. Alexander Jung (Aalto University) 
 
-# Textbook
+# Reading
+
 AJ, "Machine Learning: The Basics," Springer, 2022. [preprint](https://mlbook.cs.aalto.fi) 
 
 # Lectures and Tutorials 
