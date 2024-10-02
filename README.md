@@ -1,5 +1,5 @@
 # Material for the Unite! Research Work in October 2024. 
-## Associate Prof. Alexander Jung (Aalto University) 
+Associate Prof. Alexander Jung (Aalto University) 
 
 # Reading
 
