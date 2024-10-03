@@ -11,6 +11,7 @@ TBA
 * AJ, "Machine Learning: The Basics," Springer, 2022. [preprint](https://mlbook.cs.aalto.fi) 
 * European Comission, "Ethics guidelines for trustworthy AI," 2019, [weblink](https://digital-strategy.ec.europa.eu/en/library/ethics-guidelines-trustworthy-ai)
 * High-Level Expert Group on Artificial Intelligence. (2020). The Assessment List for Trustworthy Artificial Intelligence (ALTAI) for Self Assessment. European Commission. [weblink](https://digital-strategy.ec.europa.eu/en/library/assessment-list-trustworthy-artificial-intelligence-altai-self-assessment)
+* J. Mourtada and L. Rosasco, “An elementary analysis of ridge regression with random design”, *arXiv e-prints*, Art. no. arXiv:2203.08564, 2022. doi:10.48550/arXiv.2203.08564.
 
 # Watching
 
